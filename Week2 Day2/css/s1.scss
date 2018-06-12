@@ -1,0 +1,8 @@
+$direction:right;
+.sidebar {
+    float: $direction;
+    width: 33.33%;
+    @include bp(mama-bear) {
+      width: 25%;
+    }
+  }

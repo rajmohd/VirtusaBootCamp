@@ -1,0 +1,19 @@
+{
+  "name": "cricketproblem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.1.0",
+    "typescript": "^2.9.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "^3.1.0"
+  },
+  "description": ""
+}
